@@ -48,7 +48,7 @@ Realizar los ajustes necesarios de acuerdo con las nuevas necesidades del usuari
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/89166148/176089682-711f98e3-f13e-48b2-b4f7-70e33d5b0bdf.png">
 </p>
 
-### Ejemplos de Análisis
+# Ejemplos de Análisis
 - Algoritmo que calcule y despliegue las 2 raíces cuadradas de un polinomio de 2do orden ax^2+bx+c usando la fórmula general.
 <p align="center">
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/89166148/176092440-4c096087-9ce2-44fb-9c84-b7b0f6dcbf31.png">
@@ -59,7 +59,7 @@ Realizar los ajustes necesarios de acuerdo con las nuevas necesidades del usuari
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/89166148/176094508-48956fba-2920-4a86-aa2c-1653dd5cd63e.png">
 </p>
 
-### Operadores Aritméticos
+# Operadores Aritméticos
 Permiten realizar operaciones matemáticas entre valores numéricos, utilizados para el diseño de expresiones aritméticas, requeridas para la solución del problemas.
 <p align="center">
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/89166148/176094674-a43cea11-1ca9-4a60-b949-5326cac3d8a6.png">
@@ -70,7 +70,7 @@ Permiten realizar operaciones matemáticas entre valores numéricos, utilizados 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/89166148/176094823-48638daa-8b1c-47fa-b787-143554573185.png">
 </p>
 
-### Expresión aritmética
+# Expresión aritmética
 - Es la representación de una fórmula matemática. En programación, es una combinación de variables, constantes, operadores aritméticos y otros.
 - En programación también se usan funciones predefinidas para las que no hay un operador aritmético equivalente, como son la función para calcular la raíz cuadrada, la función para elevar un valor a una potencia y muchas otras que se verán más adelante.
 
@@ -87,7 +87,7 @@ Permiten realizar operaciones matemáticas entre valores numéricos, utilizados 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/89166148/176095495-09294017-7119-4282-b719-9a647af326ad.png">
 </p>
 
-### Jerarquía de evaluación
+# Jerarquía de evaluación
 - Primero se realizan los paréntesis de interior a exterior si es el caso
 - Segundo Potencia **
 - Tercero *, /, %, div
