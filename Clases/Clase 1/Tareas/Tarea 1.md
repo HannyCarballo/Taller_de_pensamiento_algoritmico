@@ -1,5 +1,6 @@
 # Tarea 1
-Escribe las siguientes fórmulas matemáticas en sus equivalentes en programación.
+- Escribe las siguientes fórmulas matemáticas en sus equivalentes en programación.
+- Las respuestas vienen debajo de cada imagen :)
 <p align="center">
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/89166148/176071012-b503e293-6c0f-49a8-bbbb-6807c428b3d1.png">
 </p>
