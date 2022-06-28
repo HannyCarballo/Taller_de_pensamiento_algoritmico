@@ -58,8 +58,8 @@ D. Varios
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/89166148/176252818-9798b960-7caf-4313-af11-ee73febe1e4c.png">
 </p>
 
-- Link al ejercicio resuelto en pseint: https://github.com/HannyCarballo/Taller_de_pensamiento_algoritmico/blob/master/Clases/Clase%202/Informaci%C3%B3n/raices.psc
+- Link al ejercicio resuelto en pseint: [[click aquí]](https://github.com/HannyCarballo/Taller_de_pensamiento_algoritmico/blob/master/Clases/Clase%202/Informaci%C3%B3n/raices.psc)
 
 ### Ejercicio 2
 - El dueño del negocio “El Brownie Mágico”, quiere repartir diariamente cierta cantidad de sus brownies por partes iguales a las casas de niños huérfanos que lo soliciten en ese día, los restantes se entregarán a la casa de “Ancianos Felices”, él esta pidiendo un algoritmo que le despliegue la cantidad de brownies a enviar a las casas de huérfanos que los solicitaron ese día y la cantidad a enviar a la casa de los ancianos.
-- Link al ejercicio resuelto en pseint: https://github.com/HannyCarballo/Taller_de_pensamiento_algoritmico/blob/master/Clases/Clase%202/Informaci%C3%B3n/brownie.psc
+- Link al ejercicio resuelto en pseint: [[click aquí]](https://github.com/HannyCarballo/Taller_de_pensamiento_algoritmico/blob/master/Clases/Clase%202/Informaci%C3%B3n/brownie.psc)
